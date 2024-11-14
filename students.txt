@@ -1,0 +1,3 @@
+1001,Ram,20,Computer Science
+1003,Aditya,20,Mechanical
+1006,Abhishek,21,Information Technology
